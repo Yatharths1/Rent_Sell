@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "32483977271",
+    "firebase_url": "https://iitjrentsell-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iitjrentsell",
+    "storage_bucket": "iitjrentsell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32483977271:android:a391625c6affa7e4ed77b2",
+        "android_client_info": {
+          "package_name": "com.example.iitj_rent_sell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScc5n_1-PeZav6W6YH4tKsQG6joSW4E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
